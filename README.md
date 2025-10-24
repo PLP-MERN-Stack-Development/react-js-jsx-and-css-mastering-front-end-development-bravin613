@@ -97,7 +97,7 @@ live link - https://ai-task-master-1.vercel.app/
 ### Task Manager
 ![Task Manager](https://lh3.googleusercontent.com/d/10paWZGOSzdA7tOspuBkWmsjBAIC2BgGm)
 ## completed tasks
-![Task Manager](https://drive.google.com/file/d/1mCqldAGzOX0ROPzRHSnhReMn6WG5zaEA/view?usp=sharing)
+![Task Manager](https://lh3.googleusercontent.com/d/1mCqldAGzOX0ROPzRHSnhReMn6WG5zaEA)
 ### API Demo
 ![API Demo](https://lh3.googleusercontent.com/d/12UDEtHLCYAlCcNdhj3F9sbgdwOrMJyTw)
 
