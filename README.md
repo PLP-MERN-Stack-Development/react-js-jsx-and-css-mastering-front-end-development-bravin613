@@ -92,8 +92,8 @@ live link - https://ai-task-master-1.vercel.app/
 ## Screenshots
 
 ### Landing Page
-![Landing Page](AITaskMaster/public/Screenshot%202025-10-24%20183456.png)
-![Landing Page](./public/Screenshot%202025-10-24%20183518.png)
+![Landing Page](https://drive.google.com/file/d/18CA4I74PMng32je3RccEMdG7Q_C7gorX/view?usp=sharing)
+![Landing Page](../public/Screenshot%202025-10-24%20183518.png)
 ### Task Manager
 ![Task Manager](AITaskMaster/public/Screenshot%202025-10-24%20183615.png)
 ## completed tasks
