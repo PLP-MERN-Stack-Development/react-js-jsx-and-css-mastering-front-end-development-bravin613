@@ -92,17 +92,17 @@ live link - https://ai-task-master-1.vercel.app/
 ## Screenshots
 
 ### Landing Page
-![Landing Page](https://drive.google.com/file/d/18CA4I74PMng32je3RccEMdG7Q_C7gorX/view?usp=sharing)
-![Landing Page](../public/Screenshot%202025-10-24%20183518.png)
+![Landing Page](https://lh3.googleusercontent.com/d/18CA4I74PMng32je3RccEMdG7Q_C7gorX)
+
 ### Task Manager
-![Task Manager](AITaskMaster/public/Screenshot%202025-10-24%20183615.png)
+![Task Manager](https://lh3.googleusercontent.com/d/10paWZGOSzdA7tOspuBkWmsjBAIC2BgGm)
 ## completed tasks
-![Task Manager](AITaskMaster/public/Screenshot%202025-10-24%20183628.png)
+![Task Manager](https://drive.google.com/file/d/1mCqldAGzOX0ROPzRHSnhReMn6WG5zaEA/view?usp=sharing)
 ### API Demo
-![API Demo](AITaskMaster/public/Screenshot%202025-10-24%20183644.png)
+![API Demo](https://lh3.googleusercontent.com/d/12UDEtHLCYAlCcNdhj3F9sbgdwOrMJyTw)
 
 ### Dark Mode
-![Dark Mode](AITaskMaster/public/Screenshot%202025-10-24%20183518.png)
+![Dark Mode](https://lh3.googleusercontent.com/d/1WL_NxhbIFt9gGjOO6GUsEMr5EIOcFL3V)
 
 ## API Integration Details
 
